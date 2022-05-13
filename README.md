@@ -24,4 +24,5 @@ There aren't any configurable options currently, but ideally it would be possibl
 
 ## Screenshots
 ![](https://github.com/Asa-Hopkins/MoonPhase/blob/main/screenshots/Screenshot.png)
+
 Clearly, not to scale.

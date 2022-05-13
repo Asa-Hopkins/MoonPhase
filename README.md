@@ -21,3 +21,7 @@ to compile. It can also be compiled for Windows by switching `g++` with MinGW, a
 
 ## Usage
 There aren't any configurable options currently, but ideally it would be possible to enter a location on Earth and a time/date and then let it run. These are all hard coded currently and are a huge pain to look up and convert to the correct format.
+
+## Screenshots
+![](https://github.com/Asa-Hopkins/MoonPhase/blob/main/screenshots/Screenshot.png)
+Clearly, not to scale.
